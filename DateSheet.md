@@ -3,7 +3,7 @@
 <h1>Computer Science & Engineering Department</h1>
 </center>
 
-<pre>Ref. No.: CSE/729                                                                                 Dated: 4.12.2020</pre>
+<pre>Ref. No.: CSE/729                                                                                        Dated: 4.12.2020</pre>
 
 <center><h2>MST-2 Date Sheet</h2></center>
 
