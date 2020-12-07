@@ -1,6 +1,4 @@
-<center>
-<img src="gneLogo.jpg" alt="gnelogo">
-</center>
+<img src="gneLogo.jpg" alt="gnelogo" align="middle">
 
 <center>
 <h1>Computer Science & Engineering Department</h1>
