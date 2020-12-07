@@ -1,5 +1,5 @@
 ![Display picture](gneLogo.jpg)
-<br/><br/><br/>#Computer Science & Engineering Department
+<br/><br/><br/> # Computer Science & Engineering Department
 
 Ref. No.: CSE/729                              Dated: 4.12.2020
 
