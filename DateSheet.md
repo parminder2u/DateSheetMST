@@ -1,9 +1,9 @@
 ![Display picture](gneLogo.jpg)
-<br/><br/><br/> ****<center>Computer Science & Engineering Department</center>****
+<br/><br/><br/> **<center>Computer Science & Engineering Department</center>**
 
 Ref. No.: CSE/729                              Dated: 4.12.2020
 
-MST-2 Date Sheet
+<center>MST-2 Date Sheet</center>
 <br/><br/>INSTRUCTIONS:
 1.	The MST shall be held through guru.gndec.ac.in
 2.	The question paper will be comprising of 24 questions (each question carry (01) one mark) and the examination duration will be 20 minutes.
