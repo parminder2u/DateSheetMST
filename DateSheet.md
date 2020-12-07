@@ -1,5 +1,5 @@
 <center>
-<img src="gneLogo.jpg" alt="gnelogo">
+<img src="gneLogo.jpg" alt="gneLogo">
 </center>
 
 <center>
