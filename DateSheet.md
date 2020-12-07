@@ -1,5 +1,6 @@
+<p class="aligncenter">
 ![Display picture](gneLogo.jpg)
-
+</p>
 <center>
 <h1>Computer Science & Engineering Department</h1>
 </center>
