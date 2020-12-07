@@ -7,7 +7,7 @@
 
 <center><h2>MST-2 Date Sheet</h2></center>
 
-INSTRUCTIONS:
+**INSTRUCTIONS:**
 1.	The MST shall be held through guru.gndec.ac.in
 2.	The question paper will be comprising of 24 questions (each question carry (01) one mark) and the examination duration will be 20 minutes.
 3.	For the open Elective subject student must see the date-sheet of the respective department.
@@ -19,6 +19,8 @@ INSTRUCTIONS:
 | 14/12/2020 | | Constitution of India (MC1-102) Timing-12.00 to 12.20 am | | |
 | 15/12/2020 | Human Values and Professional Ethics (HSMCS-101) | Design and Analysis of Algorithms (PCCS-111) | Natural Language Processing (DECS-14709)/ Machine Learning (DECS-14710)/ Soft Computing(DECS-14713) | |
 | 16/12/2020 | Mathematics-III (BSCS-101) | Advanced Computer Networks (PECS-106) | Advanced Computer Networks (CS-14701) | |
+
+[Click me!](https://cse.gndec.ac.in/ "For latest updates check departmental website.")
 
 <br/>
 **HOD (CSE)**
