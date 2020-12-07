@@ -16,6 +16,7 @@ INSTRUCTIONS:
 | 10/12/2020 | Object Oriented Programming (PCCS-101) | Artificial Intelligence (PCCS-108) | Compiler Design (CS-14702) | Data Preparation & Analysis (MCS-155) |
 | 11/12/2020 | Computer Networks (PCCS-102) | Database Management Systems (PCCS-109) | Cyber Laws and IPR (CS-14703) | |
 | 12/12/2020 | Digital Electronics (ESCS-101) | Formal Language & Automata Theory (PCCS-110) | Cloud Computing (DECS-14706)/Big Data and Business Analytics(DECS-14707)/Data Warehouse and Data Mining(DECS-14708) | |
+| 14/12/2020 | | Constitution of India (MC1-102) Timing-12.00 to 12.20 am | | |
 
 <br/>
 **HOD (CSE)**
