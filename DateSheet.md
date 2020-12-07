@@ -15,8 +15,9 @@ INSTRUCTIONS:
 | **Date** | **B.Tech <br/>3rd semester<br/>(9:00-9:20)** | **B.Tech <br/>5th semester <br/>(9:00-9:20)** | **B.Tech <br/>7th semester <br/>(9:00-9:20)** | **M.Tech <br/>3rd semester <br/>(11:30-11:50)**|
 | 10/12/2020 | Object Oriented Programming (PCCS-101) | Artificial Intelligence (PCCS-108) | Compiler Design (CS-14702) | Data Preparation & Analysis (MCS-155) |
 | 11/12/2020 | Computer Networks (PCCS-102) | Database Management Systems (PCCS-109) | Cyber Laws and IPR (CS-14703) | |
+| 12/12/2020 | Digital Electronics (ESCS-101) | Formal Language & Automata Theory (PCCS-110) | Cloud Computing (DECS-14706)/Big Data and Business Analytics(DECS-14707)/Data Warehouse and Data Mining(DECS-14708) | |
 
-<br/><br/><br/>
+<br/>
 **HOD (CSE)**
 
 
