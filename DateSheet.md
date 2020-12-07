@@ -1,5 +1,5 @@
 ![Display picture](gneLogo.jpg)
-<br/><br/><br/> <center>**Computer Science & Engineering Department**</center>
+<br/><br/><br/> ****<center>Computer Science & Engineering Department</center>****
 
 Ref. No.: CSE/729                              Dated: 4.12.2020
 
