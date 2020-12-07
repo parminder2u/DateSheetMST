@@ -20,7 +20,7 @@
 | 15/12/2020 | Human Values and Professional Ethics (HSMCS-101) | Design and Analysis of Algorithms (PCCS-111) | Natural Language Processing (DECS-14709)/ Machine Learning (DECS-14710)/ Soft Computing(DECS-14713) | |
 | 16/12/2020 | Mathematics-III (BSCS-101) | Advanced Computer Networks (PECS-106) | Advanced Computer Networks (CS-14701) | |
 
-[Click me!](https://cse.gndec.ac.in/ "For latest updates check departmental website.")
+[For latest updates check departmental website.](https://cse.gndec.ac.in) 
 
 <br/>
 **HOD (CSE)**
