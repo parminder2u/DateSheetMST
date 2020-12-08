@@ -11,7 +11,7 @@
 <center><h2>MST-2 Date Sheet</h2></center>
 
 **INSTRUCTIONS:**<br/>
-*1.	The MST shall be held through guru.gndec.ac.in*
+*1.	The MST shall be held through guru.gndec.ac.in*<br/>
 *2.	The question paper will be comprising of 24 questions (each question carry (01) one mark) and the examination duration will be 20 minutes.*<br/>
 *3.	For the open Elective subject student must see the date-sheet of the respective department.*<br/>
 
